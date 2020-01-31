@@ -4,3 +4,4 @@ Statistics Basics
 2. Confidence interval and margin of error https://www.youtube.com/watch?v=hlM7zdf7zwU
 3. Hypothesis Testing and p-values https://www.youtube.com/watch?v=-FtlH4svqx4&list=PLSQl0a2vh4HDl0hgK8nIBgBjLji5Eu9ar&index=1
 4. z test or t test https://www.youtube.com/watch?v=-FtlH4svqx4&list=PLSQl0a2vh4HDl0hgK8nIBgBjLji5Eu9ar&index=1
+5. Hypothesis Test: Difference Between Proportions https://stattrek.com/hypothesis-test/difference-in-proportions.aspx
